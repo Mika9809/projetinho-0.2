@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: #8B0000; /* Vinho escuro */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+main {
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+button {
+    font-size: 1.2em;
+    color: #fff;
+    background-color: #8B0000; /* Vinho escuro */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #a52a2a; /* Tom mais claro de vinho */
+}
